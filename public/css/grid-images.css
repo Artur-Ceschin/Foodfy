@@ -1,0 +1,27 @@
+.recipes{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 2rem;
+    
+}
+.recipes .card{
+    margin-bottom: 2.4rem;
+}
+.recipes .card img{
+    width: 300px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 1.5rem;
+}
+
+.recipes .card h3{
+    font-size: 1.8rem;
+    color: #111111;
+    margin:2rem 0 0.5rem 0;
+    font-weight: 400;
+}
+
+.recipes .card p{
+    font-size: 1.4em;
+    color: #777777;
+}

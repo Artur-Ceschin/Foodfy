@@ -1,0 +1,14 @@
+
+.block-content{
+    margin-bottom: 2.5rem;
+}
+.block-content p{
+    font-size: 1.8rem;
+    color: #444444;
+    line-height: 2.8rem;
+}
+
+.block-content h3 {
+    font-size: 2rem;
+    color: #111111;
+}
